@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayes", "NaiveBayes\NaiveBayes.csproj", "{8AE01843-4FB8-4948-8563-FCAB8936FC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayes3Dimentions", "NaiveBayes3Dimentions\NaiveBayes3Dimentions.csproj", "{F0779F76-E508-4393-A679-E90348EF6CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE01843-4FB8-4948-8563-FCAB8936FC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE01843-4FB8-4948-8563-FCAB8936FC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE01843-4FB8-4948-8563-FCAB8936FC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE01843-4FB8-4948-8563-FCAB8936FC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0779F76-E508-4393-A679-E90348EF6CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0779F76-E508-4393-A679-E90348EF6CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0779F76-E508-4393-A679-E90348EF6CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0779F76-E508-4393-A679-E90348EF6CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598F9C9D-1236-47FF-9415-14E05AFA1752}
+	EndGlobalSection
+EndGlobal

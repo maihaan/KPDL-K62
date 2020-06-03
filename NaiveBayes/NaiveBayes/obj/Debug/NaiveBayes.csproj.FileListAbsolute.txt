@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form1.resources
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Properties.Resources.resources
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb

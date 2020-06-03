@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\bin\Debug\NaiveBayes3Dimentions.exe
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\bin\Debug\NaiveBayes3Dimentions.pdb
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.Form1.resources
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.Properties.Resources.resources
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.exe
+C:\Users\Admin\source\repos\NaiveBayes\NaiveBayes3Dimentions\obj\Debug\NaiveBayes3Dimentions.pdb
